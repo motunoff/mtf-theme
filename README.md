@@ -1,1 +1,3 @@
 # mtf-theme
+
+simple theme
